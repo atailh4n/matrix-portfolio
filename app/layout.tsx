@@ -13,8 +13,8 @@ const vcrFont = localFont({
 })
 
 export const metadata: Metadata = {
-  title: "Matrix Portfolio",
-  description: "A Matrix-themed portfolio",
+  title: "Ata İlhan Köktürk - Multi-disciplinary Developer",
+  description: "My own portfolio, and has open source at my GitHub.",
 }
 
 export default function RootLayout({
